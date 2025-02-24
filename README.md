@@ -2,8 +2,8 @@
 
 A comprehensive retail management solution handling product inventory, sales transactions, purchase orders, and credit tracking.
 
-## Key Features
-
+# Front end code:
+      https://github.com/Toufiklamghari1/store-management-system-frontend.git
 
 ### Feature Breakdown
 
@@ -62,11 +62,13 @@ A comprehensive retail management solution handling product inventory, sales tra
       - Spring Data JPA
       - iText 7.x (PDF generation)
       - MySQL Database
+      
     - **Frontend**
-      - Angular
+      - Angular 13
       - Angular Material
       - RxJS
       - TypeScript
+      
     - **Tools**
       - Maven
       - JWT Authentication
